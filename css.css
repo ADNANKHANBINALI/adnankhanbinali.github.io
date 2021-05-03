@@ -29,6 +29,15 @@ a {
     width: 16.66%;
     
 }
+button {
+    background-color: rgb(255, 7, 7);
+    color: black;
+    text-align: right;
+    float: left;
+    padding: 15px;
+    width: 16.66%;     
+    
+}
 
 
 header {
