@@ -1,0 +1,49 @@
+*{
+    color: brown;
+    background-color: rgb(7, 7, 7);
+    font-style: italic;
+    font-size: x-large;
+    font-weight: 900;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: rosybrown;
+    margin: 0%;
+
+}
+* {
+    box-sizing: border-box;
+}
+nav {
+    background-color: rgb(248, 11, 11);
+    color: black;
+    text-align: center;
+    overflow: hidden;
+}
+
+a {
+    background-color: rgb(255, 7, 7);
+    color: black;
+    text-align: right;
+    float: left;
+    padding: 15px;
+    width: 16.66%;
+    
+}
+
+
+header {
+    background-color: rgb(255, 7, 7);
+    color: black;
+    text-align: center;
+    padding: 20px;
+    
+}
+footer a {
+
+    background-color: rgb(255, 7, 7);
+    color: black;
+    text-align: right;
+    padding: 15px;
+    width: 20%;
+
+}
